@@ -10,7 +10,6 @@ Proficient in:
             <p class="mb-3">
                 <strong>Full Stack Developer</strong> specialized in web application development with a strong focus on Laravel (PHP), JavaScript, Bootstrap, and modern front-end technologies. Skilled in designing scalable and maintainable systems, implementing clean architecture, and delivering robust end-to-end solutions.
             </p>
-
             <p class="mb-3">  
                 <strong>Proficient in:</strong>
                 <ul>
@@ -21,7 +20,6 @@ Proficient in:
                     <li>Containerization and environment standardization with Docker</li>
                 </ul>
             </p>
-
             <p class="mb-0">
                 Experienced in applying best practices across the development lifecycle, ensuring code quality, performance, and alignment with business requirements. Comfortable working in agile environments and contributing to high-impact, cross-functional projects.
             </p>
