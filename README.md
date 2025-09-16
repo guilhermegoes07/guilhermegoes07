@@ -6,7 +6,7 @@ I'm a **Full Stack Developer** with a strong focus on **ANDROID/FLUTTER** and mo
 
 🔹 **Mobile:** Java, Kotlin, Swift, Flutter, Dart, Objective-C. <br>
 🔹 **Backend:** Laravel, PHP, Node, NestJS, RESTful APIs, and best practices for performance and security.  
-🔹 **Frontend:** JavaScript, jQuery, Bootstrap, Blade, and UI/UX improvements.  
+🔹 **Frontend:** JavaScript, jQuery, Bootstrap, Blade, NextJS, React and UI/UX improvements.  
 🔹 **Database:** MySQL database modeling, query optimization, and data consistency.  
 🔹 **DevOps:** Experience with Docker for containerized environments and CI/CD workflows.  
 🔹 **Best Practices:** SOLID principles, clean architecture, and automated testing.  
