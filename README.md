@@ -2,9 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=guilhermegoes07)  
 
-I'm a **Full Stack Developer** with a strong focus on **PHP (Laravel)** and modern web technologies. I enjoy building scalable, maintainable applications and writing clean, efficient code that aligns with business needs.  
+I'm a **Full Stack Developer** with a strong focus on **ANDROID/FLUTTER** and modern web technologies. I enjoy building scalable, maintainable applications and writing clean, efficient code that aligns with business needs.  
 
-🔹 **Backend:** Laravel, PHP, RESTful APIs, and best practices for performance and security.  
+🔹 **Mobile:** Java, Kotlin, Swift, Flutter, Dart, Objective-C.
+🔹 **Backend:** Laravel, PHP, Node, NestJS, RESTful APIs, and best practices for performance and security.  
 🔹 **Frontend:** JavaScript, jQuery, Bootstrap, Blade, and UI/UX improvements.  
 🔹 **Database:** MySQL database modeling, query optimization, and data consistency.  
 🔹 **DevOps:** Experience with Docker for containerized environments and CI/CD workflows.  
