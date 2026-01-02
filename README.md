@@ -1,31 +1,60 @@
-### Hi there 👋
+# Hi there, I'm Guilherme Goes 👋
 
-![](https://komarev.com/ghpvc/?username=guilhermegoes07)
+### Senior Mobile Developer | Flutter & Native Specialist
 
-I'm a **Mobile & Fullstack Developer** with over 6 years of experience building complete ecosystems—from the app in your hand to the cloud that sustains it. My focus is on delivering software that is reliable, scalable, and solves real business problems, with critical project experience in the **fintech and payments sectors**.
-
-I'm the kind of developer who dives deep into the business problem to ensure the technology is the solution, not a new problem.
+With over **6 years of experience** in software development, I specialize in building high-performance mobile applications. My focus is on delivering stable, secure solutions with a strong emphasis on technical excellence and Clean Architecture.
 
 ---
 
-### Key Highlights
+### 🚀 Key Highlights & Impact
 
-🔹 **End-to-End Architecture:** Designed and implemented end-to-end solutions for complex applications (e-commerce, health), using **Clean Architecture** and **MVVM with Riverpod** to build scalable and testable codebases.
-
-🔹 **Mobile Payments:** Led the development of payment applications for POS terminals, architecting critical modules in **Flutter** and integrating native SDKs (Kotlin) to ensure secure, PCI-compliant transactions.
-
-🔹 **DevOps & Automation:** Created and automated **CI/CD pipelines** (GitHub Actions, Jenkins) with Python and Docker, reducing manual deployment time by over **50%**.
-
-🔹 **Performance Optimization:** Diagnosed and fixed critical memory leaks in a legacy iOS app using Xcode Instruments, improving performance by **80%** on older devices.
+* **Fintech Expert:** Led application development for **POS terminals** and Fintechs, ensuring PCI compliance and seamless hardware communication.
+* **Performance:** Successfully remediated memory leaks in legacy systems, resulting in an **80% performance gain**.
+* **DevOps & Automation:** Built CI/CD pipelines that reduced manual deployment time by **50%**.
+* **Bridge to Native:** Solid experience integrating Flutter with native SDKs (Kotlin/Android).
 
 ---
 
-### My Tech Stack
+### 🛠 Tech Stack
 
-🔹 **Mobile:** `Flutter`, `Dart`, `Riverpod`, `BLOC`, `Native Android (Kotlin, Java)`, `iOS (Swift, Objective-C)`.
+**Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-🔹 **Backend:** `Node.js`, `NestJS`, `PHP`, `Laravel`, `Python (Flask)`, `RESTful APIs`.
+**Architecture & State Management**
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-blue?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-black?style=for-the-badge)
+![BLOC](https://img.shields.io/badge/BLOC-Library-blueviolet?style=for-the-badge)
 
-🔹 **Cloud & DevOps:** `AWS (EC2, S3, RDS, Lambda)`, `Docker`, `CI/CD (GitHub Actions, Jenkins, CodeMagic)`.
+**DevOps & Backend Integration**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Github%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-🔹 **Frontend:** `JavaScript`, `NextJS`, `React`,
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermegoes07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegoes07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph"  />
+</div>
+
+---
+
+### 📫 Connect with me
+
+* **Email:** [gscog05@gmail.com](mailto:gscog05@gmail.com)
+* **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/guilherme-goes-b3948514a/) ```
+
+### O que eu adicionei/alterei:
+1.  **Badges Visuais:** Usei *shields.io* para criar as "tags" coloridas das tecnologias (Flutter, Kotlin, AWS, etc). Isso chama muito a atenção de recrutadores.
+2.  **Gráficos Dinâmicos:** Adicionei os widgets do `github-readme-stats`. Eles puxam automaticamente suas linguagens mais usadas e estatísticas de commits do seu usuário (`guilhermegoes07`).
+3.  **Foco em Resultados:** Destaquei os números (80% e 50%) em negrito na seção de Highlights.
+4.  **Link do LinkedIn:** Deixei um espaço ali para você colocar o link direto do seu perfil (presumi que você tem um, dado o contexto).
+
+Se quiser alterar as cores dos gráficos (atualmente está no tema "Tokyo Night", que é escuro e elegante), é só mudar onde diz `theme=tokyonight` no código para outros como `dracula`, `dark`, ou `default`.
+
+O que achou desse layout?
