@@ -47,7 +47,7 @@ With over **6 years of experience** in software development, I specialize in bui
 ### 📫 Connect with me
 
 * **Email:** [gscog05@gmail.com](mailto:gscog05@gmail.com)
-* **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/guilherme-goes-b3948514a/) ```
+* **LinkedIn:** [Connect on LinkedIn](linkedin.com/in/guilherme-santiago-goes/) ```
 
 ### O que eu adicionei/alterei:
 1.  **Badges Visuais:** Usei *shields.io* para criar as "tags" coloridas das tecnologias (Flutter, Kotlin, AWS, etc). Isso chama muito a atenção de recrutadores.
