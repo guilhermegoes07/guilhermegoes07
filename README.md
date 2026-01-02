@@ -47,14 +47,5 @@ With over **6 years of experience** in software development, I specialize in bui
 ### 📫 Connect with me
 
 * **Email:** [gscog05@gmail.com](mailto:gscog05@gmail.com)
-* **LinkedIn:** [Connect on LinkedIn](linkedin.com/in/guilherme-santiago-goes/) ```
+* **LinkedIn:** [Connect on LinkedIn](linkedin.com/in/guilherme-santiago-goes/) 
 
-### O que eu adicionei/alterei:
-1.  **Badges Visuais:** Usei *shields.io* para criar as "tags" coloridas das tecnologias (Flutter, Kotlin, AWS, etc). Isso chama muito a atenção de recrutadores.
-2.  **Gráficos Dinâmicos:** Adicionei os widgets do `github-readme-stats`. Eles puxam automaticamente suas linguagens mais usadas e estatísticas de commits do seu usuário (`guilhermegoes07`).
-3.  **Foco em Resultados:** Destaquei os números (80% e 50%) em negrito na seção de Highlights.
-4.  **Link do LinkedIn:** Deixei um espaço ali para você colocar o link direto do seu perfil (presumi que você tem um, dado o contexto).
-
-Se quiser alterar as cores dos gráficos (atualmente está no tema "Tokyo Night", que é escuro e elegante), é só mudar onde diz `theme=tokyonight` no código para outros como `dracula`, `dark`, ou `default`.
-
-O que achou desse layout?
